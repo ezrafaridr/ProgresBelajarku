@@ -9,5 +9,5 @@ Belajar kelas Memulai Belajar Dasar Git dengan Github. (Progres 40%)
   * Belajar Dasar Dasar Git.
 
 **16 Agustus 2023**
-  *belajar menggunakan  aturan markdown
-  *belajar mengatur bold pada tanggal
+  -*belajar menggunakan  aturan markdown
+  -*belajar mengatur bold pada tanggal
